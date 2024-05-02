@@ -1,0 +1,7 @@
+c:\users\faizank\source\repos\Program_Assignment_1\Program_Assignment_1\bin\Debug\Program_Assignment_1.exe.config
+c:\users\faizank\source\repos\Program_Assignment_1\Program_Assignment_1\bin\Debug\Program_Assignment_1.exe
+c:\users\faizank\source\repos\Program_Assignment_1\Program_Assignment_1\bin\Debug\Program_Assignment_1.pdb
+c:\users\faizank\source\repos\Program_Assignment_1\Program_Assignment_1\obj\Debug\Program_Assignment_1.csprojResolveAssemblyReference.cache
+c:\users\faizank\source\repos\Program_Assignment_1\Program_Assignment_1\obj\Debug\Program_Assignment_1.csproj.CoreCompileInputs.cache
+c:\users\faizank\source\repos\Program_Assignment_1\Program_Assignment_1\obj\Debug\Program_Assignment_1.exe
+c:\users\faizank\source\repos\Program_Assignment_1\Program_Assignment_1\obj\Debug\Program_Assignment_1.pdb
