@@ -1,0 +1,74 @@
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\bin\ApplicationInsights.config
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\bin\Microsoft.AI.Web.dll
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\bin\WebGrease.dll
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\bin\Microsoft.AI.Web.xml
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\faizank\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\bin\ApplicationInsights.config
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\bin\Microsoft.AI.Web.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\bin\WebGrease.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\bin\Microsoft.AI.Web.xml
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 1\Program_3\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
